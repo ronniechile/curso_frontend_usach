@@ -1,0 +1,14 @@
+function Suma(a,b,c,d,e,f){
+  
+    return a+b+c+d+e+f;
+  }
+  
+  var suma = Suma(6,8,9,2,5,10); // esta función nos retorna el valor 40
+  console.log(suma);
+  function Promedio(a,b,c,d,e,f){
+  
+    return (a+b+c+d+e+f)/6;
+  }
+  
+  var suma = Promedio(6,8,9,2,5,10); // esta función nos retorna el valor 6,66666
+  console.log(suma);

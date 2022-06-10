@@ -1,0 +1,4 @@
+for (let step =1001; step >500; step--) {
+  step=step-1
+  console.log (step)
+}

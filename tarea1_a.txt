@@ -1,0 +1,4 @@
+for (let step = 0; step < 101; step++) {
+  
+    console.log (step)
+  }
