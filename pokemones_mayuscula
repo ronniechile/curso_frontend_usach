@@ -1,0 +1,3 @@
+let pokemones = ['Pikachu','Charmander','Bulbasaur','Squirtle']
+
+pokemones.forEach(element=> console.log(element.toUpperCase()))
